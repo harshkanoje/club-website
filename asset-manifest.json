@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshkanoje/club-website.git/static/css/main.fa5f19b1.css",
+    "main.js": "/harshkanoje/club-website.git/static/js/main.0a2ee572.js",
+    "static/js/787.0747b848.chunk.js": "/harshkanoje/club-website.git/static/js/787.0747b848.chunk.js",
+    "index.html": "/harshkanoje/club-website.git/index.html",
+    "main.fa5f19b1.css.map": "/harshkanoje/club-website.git/static/css/main.fa5f19b1.css.map",
+    "main.0a2ee572.js.map": "/harshkanoje/club-website.git/static/js/main.0a2ee572.js.map",
+    "787.0747b848.chunk.js.map": "/harshkanoje/club-website.git/static/js/787.0747b848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5f19b1.css",
+    "static/js/main.0a2ee572.js"
+  ]
+}
